@@ -84,7 +84,7 @@ function areyousure(){
     read _answer
     if [ "$_answer" == "yes" ]
     then
-			60hz
+	60hz
     fi
 
     if [ "$_answer" == test ]
